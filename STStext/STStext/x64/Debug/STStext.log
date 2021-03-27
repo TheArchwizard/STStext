@@ -1,0 +1,6 @@
+﻿  STStext.cpp
+C:\Users\coope\source\repos\STStext\STStext\Encounter.h(45,13): warning C4101: 'left': unreferenced local variable
+C:\Users\coope\source\repos\STStext\STStext\Encounter.h(47,13): warning C4101: 'center': unreferenced local variable
+C:\Users\coope\source\repos\STStext\STStext\Encounter.h(46,13): warning C4101: 'right': unreferenced local variable
+C:\Users\coope\source\repos\STStext\STStext\Encounter.h(62,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  STStext.vcxproj -> C:\Users\coope\source\repos\STStext\x64\Debug\STStext.exe

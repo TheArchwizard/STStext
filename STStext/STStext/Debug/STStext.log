@@ -1,0 +1,3 @@
+﻿  STStext.cpp
+C:\Users\coope\source\repos\STStext\STStext\STStext.cpp(89,22): warning C4018: '<': signed/unsigned mismatch
+  STStext.vcxproj -> C:\Users\coope\source\repos\STStext\Debug\STStext.exe
